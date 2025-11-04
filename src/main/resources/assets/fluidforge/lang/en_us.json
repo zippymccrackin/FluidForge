@@ -1,0 +1,13 @@
+{
+  "itemGroup.fluidforge": "Example Mod Tab",
+  "block.fluidforge.example_block": "Example Block",
+  "item.fluidforge.example_item": "Example Item",
+
+  "fluidforge.configuration.title": "Fluid Forge Configs",
+  "fluidforge.configuration.section.fluidforge.common.toml": "Fluid Forge Configs",
+  "fluidforge.configuration.section.fluidforge.common.toml.title": "Fluid Forge Configs",
+  "fluidforge.configuration.items": "Item List",
+  "fluidforge.configuration.logDirtBlock": "Log Dirt Block",
+  "fluidforge.configuration.magicNumberIntroduction": "Magic Number Text",
+  "fluidforge.configuration.magicNumber": "Magic Number"
+}
