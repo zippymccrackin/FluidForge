@@ -1,4 +1,6 @@
 {
+  "item.fluidforge.milk_bucket": "Placeable Milk",
+
   "itemGroup.fluidforge": "Example Mod Tab",
   "block.fluidforge.example_block": "Example Block",
   "item.fluidforge.example_item": "Example Item",

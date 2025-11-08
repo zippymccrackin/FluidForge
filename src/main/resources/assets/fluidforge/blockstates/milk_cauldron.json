@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "level=1": { "model": "fluidforge:block/milkcauldron_level1" },
+    "level=2": { "model": "fluidforge:block/milkcauldron_level2" },
+    "level=3": { "model": "fluidforge:block/milkcauldron_level3" }
+  }
+}
